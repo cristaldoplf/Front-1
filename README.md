@@ -4,47 +4,62 @@
 
 ## Links
 
-## 1-  Lemon Pie
+## 1- Lemon Pie.
+### HTML basico.
 ### https://cristaldoplf.github.io/Front-1/T1-Lemon-Pie/
 
-## 2-
+## 2- Batman Cv.
+##  HTML - CSS basico.
 ### https://cristaldoplf.github.io/Front-1/T2-Batman-Cv
 
-## 3-
+## 3- Robin Cv. 
+## HTML - CSS basico.
 ### https://cristaldoplf.github.io/Front-1/T3-Robin-Cv
 
-## 4-
+## 4- Pizza. 
+## HTML - CSS // Flexbox.
 ### https://cristaldoplf.github.io/Front-1/T4-Pizza
 
-## 5-
+## 5- CardSuper.
+## HTML - CSS // Posicionamiento.
 ### https://cristaldoplf.github.io/Front-1/T5-CardSuper
 
-## 6-
+## 6- CardSuper.
+## HTML - CSS // Formularios.
 ### https://cristaldoplf.github.io/Front-1/T6-CardsForms
 
-## 7-
+## 7- CardSuper.
+## HTML - CSS // Pseudoselectores
 ### https://cristaldoplf.github.io/Front-1/T7-CardsPseudoselectores
 
-## 8-
+## 8- Animaciones.
+## HTML - CSS // Animaciones.
 ### https://cristaldoplf.github.io/Front-1/T8-Animaciones
 
-## 9-
+## 9- Trabajo integrador de los contenidos anteriores.
+## HTML - CSS.
 ### https://cristaldoplf.github.io/Front-1/T9-trabajo-integrador
 
-## 10-
+## 10- Sass.
+## HTML - CSS - Sass // Sass - Nesting y variables.
 ### https://cristaldoplf.github.io/Front-1/T10-Sass
 
-## 11-
+## 11- Sass 2.
+## HTML - CSS - Sass // Sass - Partials, Mixin y Extend.
 ### https://cristaldoplf.github.io/Front-1/T11-Sass-2
 
-## 12-
+## 12- Instafront.
+## HTML - CSS - Sass // Grid Layout.
 ### https://cristaldoplf.github.io/Front-1/T12-Grid
 
-## 13-
+## 13- Bootstrap
+## HTML - CSS - Sass // Bootstrap
 ### https://cristaldoplf.github.io/Front-1/T13-Bootstrap
 
-## 14-
+## 14- Bootstrap 2
+## HTML - CSS - Sass // Bootstrap
 ### https://cristaldoplf.github.io/Front-1/T14-Bootstrap-2
 
-## 15-
+## 15- Petshop
+## ## HTML - CSS // Integrando todo le contenido anterior.
 ### https://cristaldoplf.github.io/Front-1/T15-petshop
