@@ -26,7 +26,7 @@
 
 
 ## 5- CardSuper.
-### HTML - CSS // Posicionamiento.
+### HTML - CSS // Responsive Design.
 ### https://cristaldoplf.github.io/Front-1/T5-CardSuper
 
 
