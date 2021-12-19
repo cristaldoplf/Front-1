@@ -33,11 +33,15 @@
 ## 6- CardSuper.
 - HTML - CSS // Formularios.
     - https://cristaldoplf.github.io/Front-1/T6-CardsForms
+    - https://cristaldoplf.github.io/Front-1/T6-CardsForms/contacto.html
+    - https://cristaldoplf.github.io/Front-1/T6-CardsForms/registro.html
+    - https://cristaldoplf.github.io/Front-1/T6-CardsForms/login.html
 
 
 ## 7- CardSuper.
 - HTML - CSS // Pseudoselectores
     - https://cristaldoplf.github.io/Front-1/T7-CardsPseudoselectores
+    - https://cristaldoplf.github.io/Front-1/T7-CardsPseudoselectores/agregar.html
 
 
 ## 8- Animaciones.
