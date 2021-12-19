@@ -22,23 +22,23 @@ transform-origin: - el punto de origen que se considera para hacer la transforma
 - animation-timing-function //velocidad (linear)
 - animation-fill-mode
 
-- ej:
-- @keyframes traslado{
--     from{transform: translate(0);}
--     to{transform: translateX(400px);}
-- }
-- ej2:
-- @keyframes traslado{
--     0%{transform: translate(0);}
--     50%{transform: translateX(400px);}
--     100%{transform: translateX(0);}
-- }
-- ej3:
-- @keyframes traslado{
--     0%{transform: translate(0);}
--     50%{transform: translateX(400px) rotate(45deg);}
--     100%{transform: translateX(0);}
-- }
+## ej:
+ @keyframes traslado{
+     from{transform: translate(0);}
+     to{transform: translateX(400px);}
+ }
+ ej2:
+ @keyframes traslado{
+     0%{transform: translate(0);}
+     50%{transform: translateX(400px);}
+     100%{transform: translateX(0);}
+ }
+ ej3:
+ @keyframes traslado{
+     0%{transform: translate(0);}
+     50%{transform: translateX(400px) rotate(45deg);}
+     100%{transform: translateX(0);}
+ }
 
 ### Atajo
 animation: name duration timing-function delay iteration-count direction
